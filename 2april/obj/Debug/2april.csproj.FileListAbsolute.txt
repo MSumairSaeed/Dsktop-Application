@@ -1,0 +1,322 @@
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\bin\Debug\2april.exe.config
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\bin\Debug\2april.exe
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\bin\Debug\2april.pdb
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\MainWindow.baml
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\uc1.baml
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\MainWindow.g.cs
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\uc1.g.cs
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\App.g.cs
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april_MarkupCompile.cache
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april.g.resources
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\_2april.Properties.Resources.resources
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april.exe
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april.pdb
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\bin\Debug\WPF.MDI.dll
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\login.baml
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\login.g.cs
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\finl.baml
+c:\users\star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\finl.g.cs
+C:\Users\Star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\uc2.baml
+C:\Users\Star\documents\visual studio 2013\Projects\2april\2april\obj\Debug\uc2.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\bin\Debug\2april.exe.config
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april.exe
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april.pdb
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\bin\Debug\2april.exe
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\bin\Debug\2april.pdb
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\bin\Debug\WPF.MDI.dll
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\finl.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\login.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\MainWindow.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\uc1.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\uc2.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\UserControl1.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\finl.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\login.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\MainWindow.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\uc1.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\uc2.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\UserControl1.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\App.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april_MarkupCompile.cache
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april.g.resources
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\_2april.Properties.Resources.resources
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\_2april.Form1.resources
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\login1.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\login1.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\billing_module.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\billing_module.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\Doctor_info.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\InPatient.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\Doctor_info.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\InPatient.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\In_patient_billing.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\Room_info.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\In_patient_billing.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\Room_info.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\InPatient_search.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient_bill.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient_search.baml
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\InPatient_search.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient_bill.g.cs
+C:\Users\Star\Desktop\13f8070_A_MDI\2april\2april\obj\Debug\OutPatient_search.g.cs
+C:\Users\Star\Desktop\2april\2april\bin\Debug\2april.exe.config
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april.exe
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april.pdb
+C:\Users\Star\Desktop\2april\2april\bin\Debug\2april.exe
+C:\Users\Star\Desktop\2april\2april\bin\Debug\2april.pdb
+C:\Users\Star\Desktop\2april\2april\bin\Debug\WPF.MDI.dll
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\2april\2april\obj\Debug\App.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april_MarkupCompile.cache
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april.g.resources
+C:\Users\Star\Desktop\2april\2april\obj\Debug\_2april.Form1.resources
+C:\Users\Star\Desktop\2april\2april\obj\Debug\_2april.Properties.Resources.resources
+C:\Users\Star\Desktop\2april\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\billing_module.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc6.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\billing_module.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc6.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\In_patient_billing.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\In_patient_billing.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\MainWindow.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\MainWindow.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\Doctor_info.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\finl.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\InPatient.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\InPatient_search.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\login.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\login1.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient_bill.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient_search.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\Room_info.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc1.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc2.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\UserControl1.baml
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\Doctor_info.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\finl.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\InPatient.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\InPatient_search.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\login.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\login1.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient_bill.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\OutPatient_search.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\Room_info.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc1.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\uc2.g.cs
+C:\Users\Star\Desktop\2april\2april\obj\Debug\User Controls\UserControl1.g.cs
+C:\Users\Star\Dropbox\2april\2april\bin\Debug\2april.exe.config
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.exe
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.pdb
+C:\Users\Star\Dropbox\2april\2april\bin\Debug\2april.exe
+C:\Users\Star\Dropbox\2april\2april\bin\Debug\2april.pdb
+C:\Users\Star\Dropbox\2april\2april\bin\Debug\WPF.MDI.dll
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\billing_module.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\Doctor_info.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\finl.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\InPatient.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\InPatient_search.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\In_patient_billing.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\login.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\login1.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\MainWindow.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient_bill.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient_search.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\Room_info.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\uc2.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\uc6.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\UserControl1.baml
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\billing_module.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\Doctor_info.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\finl.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\InPatient.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\InPatient_search.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\In_patient_billing.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\login.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\login1.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\MainWindow.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient_bill.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\OutPatient_search.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\Room_info.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\uc2.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\uc6.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\User Controls\UserControl1.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\App.g.cs
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april_MarkupCompile.cache
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.g.resources
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\_2april.Form1.resources
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\_2april.Properties.Resources.resources
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+C:\Users\Star\Dropbox\2april\2april\obj\Debug\2april.csproj.ResolveComReference.cache
+D:\2april\2april\bin\Debug\2april.exe.config
+D:\2april\2april\obj\Debug\2april.csproj.ResolveComReference.cache
+D:\2april\2april\obj\Debug\2april.exe
+D:\2april\2april\obj\Debug\2april.pdb
+D:\2april\2april\bin\Debug\2april.exe
+D:\2april\2april\bin\Debug\2april.pdb
+D:\2april\2april\bin\Debug\WPF.MDI.dll
+D:\2april\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+D:\2april\2april\obj\Debug\User Controls\billing_module.baml
+D:\2april\2april\obj\Debug\User Controls\Doctor_info.baml
+D:\2april\2april\obj\Debug\User Controls\InPatient.baml
+D:\2april\2april\obj\Debug\User Controls\InPatient_search.baml
+D:\2april\2april\obj\Debug\User Controls\In_patient_billing.baml
+D:\2april\2april\obj\Debug\User Controls\login.baml
+D:\2april\2april\obj\Debug\User Controls\login1.baml
+D:\2april\2april\obj\Debug\User Controls\MainWindow.baml
+D:\2april\2april\obj\Debug\User Controls\OutPatient.baml
+D:\2april\2april\obj\Debug\User Controls\OutPatient_bill.baml
+D:\2april\2april\obj\Debug\User Controls\OutPatient_search.baml
+D:\2april\2april\obj\Debug\User Controls\Room_info.baml
+D:\2april\2april\obj\Debug\User Controls\uc2.baml
+D:\2april\2april\obj\Debug\User Controls\uc6.baml
+D:\2april\2april\obj\Debug\User Controls\UserControl1.baml
+D:\2april\2april\obj\Debug\User Controls\billing_module.g.cs
+D:\2april\2april\obj\Debug\User Controls\Doctor_info.g.cs
+D:\2april\2april\obj\Debug\User Controls\InPatient.g.cs
+D:\2april\2april\obj\Debug\User Controls\InPatient_search.g.cs
+D:\2april\2april\obj\Debug\User Controls\In_patient_billing.g.cs
+D:\2april\2april\obj\Debug\User Controls\login.g.cs
+D:\2april\2april\obj\Debug\User Controls\login1.g.cs
+D:\2april\2april\obj\Debug\User Controls\MainWindow.g.cs
+D:\2april\2april\obj\Debug\User Controls\OutPatient.g.cs
+D:\2april\2april\obj\Debug\User Controls\OutPatient_bill.g.cs
+D:\2april\2april\obj\Debug\User Controls\OutPatient_search.g.cs
+D:\2april\2april\obj\Debug\User Controls\Room_info.g.cs
+D:\2april\2april\obj\Debug\User Controls\uc2.g.cs
+D:\2april\2april\obj\Debug\User Controls\uc6.g.cs
+D:\2april\2april\obj\Debug\User Controls\UserControl1.g.cs
+D:\2april\2april\obj\Debug\App.g.cs
+D:\2april\2april\obj\Debug\2april_MarkupCompile.cache
+D:\2april\2april\obj\Debug\2april.g.resources
+D:\2april\2april\obj\Debug\_2april.Form1.resources
+D:\2april\2april\obj\Debug\_2april.Properties.Resources.resources
+D:\2april\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+D:\2april\2april\obj\Debug\App.baml
+D:\2april\2april\obj\Debug\Windows\SignUp.baml
+D:\2april\2april\obj\Debug\Windows\SignUp.g.cs
+D:\2april\2april\obj\Debug\Windows\MainWindowDoctor.baml
+D:\2april\2april\obj\Debug\Windows\MainWindowDoctor.g.cs
+D:\2april\2april\obj\Debug\User Controls\Login_Record_Show.baml
+D:\2april\2april\obj\Debug\User Controls\Login_Record_Show.g.cs
+D:\2april\2april\obj\Debug\User Controls\Show_Meeting.baml
+D:\2april\2april\obj\Debug\User Controls\Show_Meeting.g.cs
+D:\hospital\2april\bin\Debug\2april.exe.config
+D:\hospital\2april\obj\Debug\2april.csproj.ResolveComReference.cache
+D:\hospital\2april\obj\Debug\2april.exe
+D:\hospital\2april\obj\Debug\2april.pdb
+D:\hospital\2april\bin\Debug\2april.exe
+D:\hospital\2april\bin\Debug\2april.pdb
+D:\hospital\2april\bin\Debug\WPF.MDI.dll
+D:\hospital\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+D:\hospital\2april\obj\Debug\User Controls\billing_module.baml
+D:\hospital\2april\obj\Debug\User Controls\Doctor_info.baml
+D:\hospital\2april\obj\Debug\User Controls\InPatient.baml
+D:\hospital\2april\obj\Debug\User Controls\InPatient_search.baml
+D:\hospital\2april\obj\Debug\User Controls\In_patient_billing.baml
+D:\hospital\2april\obj\Debug\User Controls\login.baml
+D:\hospital\2april\obj\Debug\User Controls\login1.baml
+D:\hospital\2april\obj\Debug\User Controls\Login_Record_Show.baml
+D:\hospital\2april\obj\Debug\User Controls\MainWindow.baml
+D:\hospital\2april\obj\Debug\User Controls\OutPatient.baml
+D:\hospital\2april\obj\Debug\User Controls\OutPatient_bill.baml
+D:\hospital\2april\obj\Debug\User Controls\OutPatient_search.baml
+D:\hospital\2april\obj\Debug\User Controls\Room_info.baml
+D:\hospital\2april\obj\Debug\User Controls\Show_Meeting.baml
+D:\hospital\2april\obj\Debug\User Controls\uc2.baml
+D:\hospital\2april\obj\Debug\User Controls\uc6.baml
+D:\hospital\2april\obj\Debug\User Controls\UserControl1.baml
+D:\hospital\2april\obj\Debug\Windows\MainWindowDoctor.baml
+D:\hospital\2april\obj\Debug\Windows\SignUp.baml
+D:\hospital\2april\obj\Debug\App.baml
+D:\hospital\2april\obj\Debug\User Controls\billing_module.g.cs
+D:\hospital\2april\obj\Debug\User Controls\Doctor_info.g.cs
+D:\hospital\2april\obj\Debug\User Controls\InPatient.g.cs
+D:\hospital\2april\obj\Debug\User Controls\InPatient_search.g.cs
+D:\hospital\2april\obj\Debug\User Controls\In_patient_billing.g.cs
+D:\hospital\2april\obj\Debug\User Controls\login.g.cs
+D:\hospital\2april\obj\Debug\User Controls\login1.g.cs
+D:\hospital\2april\obj\Debug\User Controls\Login_Record_Show.g.cs
+D:\hospital\2april\obj\Debug\User Controls\MainWindow.g.cs
+D:\hospital\2april\obj\Debug\User Controls\OutPatient.g.cs
+D:\hospital\2april\obj\Debug\User Controls\OutPatient_bill.g.cs
+D:\hospital\2april\obj\Debug\User Controls\OutPatient_search.g.cs
+D:\hospital\2april\obj\Debug\User Controls\Room_info.g.cs
+D:\hospital\2april\obj\Debug\User Controls\Show_Meeting.g.cs
+D:\hospital\2april\obj\Debug\User Controls\uc2.g.cs
+D:\hospital\2april\obj\Debug\User Controls\uc6.g.cs
+D:\hospital\2april\obj\Debug\User Controls\UserControl1.g.cs
+D:\hospital\2april\obj\Debug\Windows\MainWindowDoctor.g.cs
+D:\hospital\2april\obj\Debug\Windows\SignUp.g.cs
+D:\hospital\2april\obj\Debug\App.g.cs
+D:\hospital\2april\obj\Debug\2april_MarkupCompile.cache
+D:\hospital\2april\obj\Debug\2april.g.resources
+D:\hospital\2april\obj\Debug\_2april.Form1.resources
+D:\hospital\2april\obj\Debug\_2april.Properties.Resources.resources
+D:\hospital\2april\obj\Debug\2april.csproj.GenerateResource.Cache
+D:\hospital\2april\obj\Debug\2april.csproj.CoreCompileInputs.cache
+F:\hospital\2april\bin\Debug\2april.exe.config
+F:\hospital\2april\bin\Debug\2april.exe
+F:\hospital\2april\bin\Debug\2april.pdb
+F:\hospital\2april\bin\Debug\WPF.MDI.dll
+F:\hospital\2april\obj\Debug\2april.csprojResolveAssemblyReference.cache
+F:\hospital\2april\obj\Debug\2april.csproj.ResolveComReference.cache
+F:\hospital\2april\obj\Debug\User Controls\billing_module.baml
+F:\hospital\2april\obj\Debug\User Controls\Doctor_info.baml
+F:\hospital\2april\obj\Debug\User Controls\InPatient.baml
+F:\hospital\2april\obj\Debug\User Controls\InPatient_search.baml
+F:\hospital\2april\obj\Debug\User Controls\In_patient_billing.baml
+F:\hospital\2april\obj\Debug\User Controls\login.baml
+F:\hospital\2april\obj\Debug\User Controls\login1.baml
+F:\hospital\2april\obj\Debug\User Controls\Login_Record_Show.baml
+F:\hospital\2april\obj\Debug\User Controls\MainWindow.baml
+F:\hospital\2april\obj\Debug\User Controls\OutPatient.baml
+F:\hospital\2april\obj\Debug\User Controls\OutPatient_bill.baml
+F:\hospital\2april\obj\Debug\User Controls\OutPatient_search.baml
+F:\hospital\2april\obj\Debug\User Controls\Room_info.baml
+F:\hospital\2april\obj\Debug\User Controls\Show_Meeting.baml
+F:\hospital\2april\obj\Debug\User Controls\uc2.baml
+F:\hospital\2april\obj\Debug\User Controls\uc6.baml
+F:\hospital\2april\obj\Debug\User Controls\UserControl1.baml
+F:\hospital\2april\obj\Debug\Windows\MainWindowDoctor.baml
+F:\hospital\2april\obj\Debug\Windows\SignUp.baml
+F:\hospital\2april\obj\Debug\App.baml
+F:\hospital\2april\obj\Debug\User Controls\billing_module.g.cs
+F:\hospital\2april\obj\Debug\User Controls\Doctor_info.g.cs
+F:\hospital\2april\obj\Debug\User Controls\InPatient.g.cs
+F:\hospital\2april\obj\Debug\User Controls\InPatient_search.g.cs
+F:\hospital\2april\obj\Debug\User Controls\In_patient_billing.g.cs
+F:\hospital\2april\obj\Debug\User Controls\login.g.cs
+F:\hospital\2april\obj\Debug\User Controls\login1.g.cs
+F:\hospital\2april\obj\Debug\User Controls\Login_Record_Show.g.cs
+F:\hospital\2april\obj\Debug\User Controls\MainWindow.g.cs
+F:\hospital\2april\obj\Debug\User Controls\OutPatient.g.cs
+F:\hospital\2april\obj\Debug\User Controls\OutPatient_bill.g.cs
+F:\hospital\2april\obj\Debug\User Controls\OutPatient_search.g.cs
+F:\hospital\2april\obj\Debug\User Controls\Room_info.g.cs
+F:\hospital\2april\obj\Debug\User Controls\Show_Meeting.g.cs
+F:\hospital\2april\obj\Debug\User Controls\uc2.g.cs
+F:\hospital\2april\obj\Debug\User Controls\uc6.g.cs
+F:\hospital\2april\obj\Debug\User Controls\UserControl1.g.cs
+F:\hospital\2april\obj\Debug\Windows\MainWindowDoctor.g.cs
+F:\hospital\2april\obj\Debug\Windows\SignUp.g.cs
+F:\hospital\2april\obj\Debug\App.g.cs
+F:\hospital\2april\obj\Debug\2april_MarkupCompile.cache
+F:\hospital\2april\obj\Debug\2april.g.resources
+F:\hospital\2april\obj\Debug\_2april.Form1.resources
+F:\hospital\2april\obj\Debug\_2april.Properties.Resources.resources
+F:\hospital\2april\obj\Debug\2april.csproj.GenerateResource.cache
+F:\hospital\2april\obj\Debug\2april.csproj.CoreCompileInputs.cache
+F:\hospital\2april\obj\Debug\2april.csproj.CopyComplete
+F:\hospital\2april\obj\Debug\2april.exe
+F:\hospital\2april\obj\Debug\2april.pdb

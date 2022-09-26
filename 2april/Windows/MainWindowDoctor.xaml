@@ -1,0 +1,25 @@
+﻿<Window x:Class="_2april.Windows.MainWindowDoctor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowState="Maximized"
+       MinHeight="400"
+        MinWidth="700"
+        WindowStyle="SingleBorderWindow"
+        Icon="D:\hospital\2april\Image\ima.png"
+        Title="Hospital system">
+    <StackPanel Orientation="Vertical">
+        <Grid HorizontalAlignment="Left" Name="grid_Main" Margin="0,0,10,0" Width="750">
+
+            <Menu HorizontalAlignment="Stretch" Background="WhiteSmoke"  Name="menu_Main" Height="21" VerticalAlignment="Bottom" RenderTransformOrigin="0.546,0.247">
+                <MenuItem Header="Go to Login" Click="MenuItem_Click" ></MenuItem>
+                <MenuItem Header="Show Meetings" Click="meetings_Click" ></MenuItem>
+
+            </Menu>
+        </Grid>
+        <Grid Name="asdfg">
+
+            <Image  Height="800" Source="C:\Users\Star\Desktop\2april\2april\Image\sanabel-flat-design-medical-wp-template.jpg" Stretch="Fill" Margin="-2,0,2,22"/>
+        </Grid>
+
+    </StackPanel>
+</Window>

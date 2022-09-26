@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="_2april.OutPatient_bill"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="600" Height="500">
+    <Grid  Width="600" Height="500" Loaded="on_load">
+        <Image Source="D:\hospital\2april\Image\inpatient-part-1.jpg" Height="800" Stretch="Fill"/>
+
+        <TextBox HorizontalAlignment="Left"  Name="bill_no" Height="23" Margin="155,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Name="doctor" Height="23" Margin="155,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23"  Name="consult_charges" Margin="434,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="434,106,0,0"  Name="name_p" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="155,106,0,0"  Name="id_p" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Bill No" HorizontalAlignment="Left" Margin="30,55,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label Content="Consultation Amout" HorizontalAlignment="Left" Margin="299,159,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="299,103,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="299,51,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label Content="Doctor" HorizontalAlignment="Left" Margin="30,159,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label Content="Patient ID" HorizontalAlignment="Left" Margin="30,106,0,0" VerticalAlignment="Top" Width="92"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Name="tot" Margin="434,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="63,267,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Show by id" HorizontalAlignment="Left" Margin="200,83,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <DataGrid HorizontalAlignment="Left"  Name="z1" Margin="10,319,0,0" VerticalAlignment="Top" Height="171" Width="580"/>
+        <Button Content="Delete By ID" HorizontalAlignment="Left" Margin="190,267,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_2"/>
+        <TextBox HorizontalAlignment="Left" Height="23"   Name="dlete" Margin="190,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Show" HorizontalAlignment="Left" Margin="359,267,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Export To Excel" HorizontalAlignment="Left" Margin="466,267,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_4"/>
+        <DatePicker HorizontalAlignment="Left" Margin="434,55,0,0"  Name="date_p" VerticalAlignment="Top" Width="126" DisplayDate="2017-05-01"/>
+        <Button Content="Total" HorizontalAlignment="Left" Margin="325,206,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="_2april.User_Controls.Login_Record_Show"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignWidth="300" Width="600" Height="828">
+    <Grid Width="600" HorizontalAlignment="Center" Margin="0,0,0,35">
+        <DataGrid HorizontalAlignment="Left"  AlternatingRowBackground="BlanchedAlmond"  AutoGenerateColumns="False" Name="z1" Margin="38,91,0,0" VerticalAlignment="Top" Height="289" Width="514" SelectionChanged="z1_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}"  Width="100" Header="NAMEE" ></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Password}" Width="100" Header="passiwprdi"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Type}" Width="100" Header="typied"></DataGridTextColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Export To Excel" HorizontalAlignment="Left" Margin="38,404,0,0" VerticalAlignment="Top" Width="165" Click="Button_Click_1"/>
+        <Button Content="Show" HorizontalAlignment="Left" Margin="361,404,0,0" VerticalAlignment="Top" Width="191" Click="Button_Click"/>
+        <Label Content="Login Record" HorizontalAlignment="Center"  Margin="54,24,85,0" VerticalAlignment="Top" Width="161" FontWeight="Bold" FontSize="18"/>
+
+    </Grid>
+</UserControl>
